@@ -1,0 +1,28 @@
+h2 Edit Item
+form action="/saleitem/edit/#{item.id}" method="POST"
+  label for="title" Title
+  input type="text" name="title" value="#{item.title}" placeholder="Title"
+  br
+  label for="description" Description
+  input type="text" name="description" value="#{item.description}" placeholder="Description"
+  br
+  label for="price" Price
+  input type="text" name="price" value="#{item.price}" placeholder="Price"
+  br
+  label for="sale_status" Sale Status
+  select name="sale_status"
+    option value="for_sale" For Sale
+    option value="sold" Sold
+    option value="not_for_sale" Not For Sale
+
+  br
+
+  label for="delete" Delete Item:
+  input type="submit" name="delete" value="Delete"
+  br
+
+  input type="submit" value="submit"
+
+
+
+

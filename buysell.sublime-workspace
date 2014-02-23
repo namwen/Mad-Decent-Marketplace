@@ -1,0 +1,1069 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"congress",
+				"congresspeople"
+			],
+			[
+				"sun",
+				"sunAPI"
+			],
+			[
+				"sn",
+				"sentiments"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fade",
+				"fade-out"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"req",
+				"require_relative"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"curren",
+				"current_user"
+			],
+			[
+				"require",
+				"require_relative"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"use",
+				"user_group"
+			],
+			[
+				"admin",
+				"administrator"
+			],
+			[
+				"user",
+				"user_group"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"ret",
+				"return_to"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"pro",
+				"protected"
+			],
+			[
+				"at",
+				"attempted_path"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"al",
+				"all_users"
+			],
+			[
+				"in",
+				"inspect"
+			],
+			[
+				"D",
+				"DataMapper"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"chil",
+				"child-page-thumb"
+			],
+			[
+				"$ch",
+				"$child"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"world",
+				"worldwide-1"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"prese",
+				"preserve-3d"
+			],
+			[
+				"wor",
+				"worldwide-1"
+			],
+			[
+				"flip",
+				"flip-thing"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"padd-",
+				"padding-right"
+			],
+			[
+				"bil",
+				"bill_number"
+			],
+			[
+				"get",
+				"getBillNum"
+			],
+			[
+				"to",
+				"toFind"
+			],
+			[
+				"de",
+				"deleteNode"
+			],
+			[
+				"the",
+				"theList"
+			],
+			[
+				"inse",
+				"insertAtRear"
+			],
+			[
+				"t",
+				"theList"
+			],
+			[
+				"pr",
+				"printList"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"prin",
+				"printNode"
+			],
+			[
+				"L",
+				"LinkList"
+			],
+			[
+				"new",
+				"newHead"
+			],
+			[
+				"add",
+				"addToFront"
+			],
+			[
+				"nw",
+				"newNode"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"next",
+				"nextOne"
+			],
+			[
+				"ran",
+				"randomTerm"
+			],
+			[
+				"ra",
+				"randomTerm"
+			],
+			[
+				"term",
+				"termArray"
+			],
+			[
+				"twit",
+				"twitJson"
+			],
+			[
+				"da",
+				"daJSon"
+			],
+			[
+				"bill",
+				"bill_response"
+			],
+			[
+				"parse",
+				"parse_vote"
+			],
+			[
+				"vot",
+				"vote_parsed"
+			],
+			[
+				"Json",
+				"JSON"
+			],
+			[
+				"parsed",
+				"parsed_vote"
+			],
+			[
+				"par",
+				"parsed_vote"
+			],
+			[
+				"bi",
+				"bill_id"
+			],
+			[
+				"vote",
+				"vote_response"
+			],
+			[
+				"geo",
+				"geoInfo"
+			],
+			[
+				"raw",
+				"raw_location"
+			],
+			[
+				"api",
+				"apiKey"
+			],
+			[
+				"congre",
+				"congressPeople"
+			],
+			[
+				"have",
+				"have_title"
+			],
+			[
+				"not",
+				"not_to"
+			],
+			[
+				"he",
+				"help"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"ec",
+				"expect"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"st",
+				"static_pages"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"stat",
+				"static_pages/about"
+			],
+			[
+				"sta",
+				"static_pages/home"
+			],
+			[
+				"ske",
+				"secure_token"
+			],
+			[
+				"token",
+				"token"
+			],
+			[
+				"la",
+				"largest"
+			],
+			[
+				"te",
+				"tempNum"
+			],
+			[
+				"tem",
+				"tempAmount"
+			],
+			[
+				"temp",
+				"tempFee"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"project",
+				"project-icons"
+			],
+			[
+				"cansper",
+				"cansPerPerson"
+			],
+			[
+				"slicesPerP",
+				"slicesPerPerson"
+			],
+			[
+				"tt",
+				"totalPies"
+			],
+			[
+				"cas",
+				"cansInCase"
+			],
+			[
+				"tot",
+				"totalCases"
+			],
+			[
+				"canse",
+				"cansPerCase"
+			],
+			[
+				"cans",
+				"cansPerPerson"
+			],
+			[
+				"total",
+				"totalCases"
+			],
+			[
+				"slie",
+				"slicesPerPerson"
+			],
+			[
+				"can",
+				"cansInCase"
+			],
+			[
+				"sa",
+				"say_bye"
+			],
+			[
+				"say",
+				"say_hi"
+			],
+			[
+				"out",
+				"outputIntAnswer"
+			],
+			[
+				"imagecreat",
+				"imagecreatefromjpeg"
+			],
+			[
+				"secre",
+				"secretMessage"
+			],
+			[
+				"$me",
+				"$messageBody"
+			],
+			[
+				"del",
+				"deleteImage"
+			],
+			[
+				"$image",
+				"$imageNames"
+			],
+			[
+				"imag",
+				"images"
+			],
+			[
+				"sec",
+				"secretMessage"
+			],
+			[
+				"image",
+				"imageID"
+			],
+			[
+				"decrypt",
+				"decryptKey"
+			],
+			[
+				"decryp",
+				"decryptKey"
+			],
+			[
+				"ima",
+				"imageID"
+			],
+			[
+				"dec",
+				"decryption"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"$im",
+				"$imageNameArray"
+			],
+			[
+				"$imageName",
+				"$imageNameArray"
+			],
+			[
+				"getAll",
+				"getAllImageNames"
+			],
+			[
+				"$re",
+				"$recipientNumber"
+			],
+			[
+				"$mes",
+				"$messageInfo"
+			],
+			[
+				"random",
+				"randomFlickrImage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Will/LocalHost/buysell/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 714,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Will/LocalHost/buysell/app.rb",
+			"settings":
+			{
+				"buffer_size": 1313,
+				"line_ending": "Unix",
+				"name": "require 'bundler/setup'"
+			}
+		},
+		{
+			"contents": "class MyApp < Sinatra::Application\n\n# AUTH ROUTES\n\n	get '/auth/login' do\n		slim :login\n	end\n\n	post '/auth/login' do\n		env['warden'].authenticate!\n		flash.success = \"Successfully logged in\"\n\n		if session[:return_to].nil?\n			# bring admins to the admin page\n			if admin? env['warden'].user\n				redirect '/admin'\n			end\n			redirect '/'\n		else\n			redirect session[:return_to]\n		end\n	end\n\n	get '/auth/logout' do\n		env['warden'].raw_session.inspect\n		env['warden'].logout\n		flash.success = \"Successfully logged out.\"\n		redirect '/'\n	end\n\n	post '/auth/unauthenticated' do\n		session[:return_to] = env['warden.options'][:attempted_path]\n		puts env['warden.options'][:attempted_path]\n		flash.error = env['warden'].message || \"You must log in\"\n		redirect '/auth/login'\n	end\n	\nend\n",
+			"file": "auth.rb",
+			"file_size": 768,
+			"file_write_time": 1393097730000000,
+			"settings":
+			{
+				"buffer_size": 769,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal P",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Will/LocalHost/buysell/models/init.rb",
+		"/Users/Will/LocalHost/democracy-refactor/app.rb",
+		"/Users/Will/LocalHost/buysell/Gemfile",
+		"/Users/Will/LocalHost/democracy-refactor/Gemfile",
+		"/Users/Will/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Will/LocalHost/democracy-refactor/routes/admin.rb",
+		"/Users/Will/LocalHost/ApVibe/wp-config copy.php",
+		"/Users/Will/LocalHost/democracy-refactor/views/data.slim",
+		"/Users/Will/LocalHost/democracy-refactor/models/bill-sentiment-district.rb",
+		"/Users/Will/LocalHost/democracy-refactor/views/data_two.slim",
+		"/Users/Will/LocalHost/democracy-refactor/public/stylesheets/style.css",
+		"/Users/Will/LocalHost/democracy-refactor/routes/auth.rb",
+		"/Users/Will/LocalHost/democracy-refactor/models/init.rb",
+		"/Users/Will/LocalHost/democracy-refactor/views/layout.slim",
+		"/Users/Will/LocalHost/democracy-refactor/views/admin.slim",
+		"/Users/Will/LocalHost/democracy-refactor/views/edit_user.slim",
+		"/Users/Will/LocalHost/demoCRAYcy/app.rb",
+		"/Users/Will/LocalHost/democracy-refactor/views/show.slim",
+		"/Users/Will/LocalHost/democracy-refactor/routes/user.rb",
+		"/Users/Will/LocalHost/democracy-refactor/routes/init.rb",
+		"/Users/Will/LocalHost/democracy-refactor/routes/main.rb",
+		"/Users/Will/LocalHost/democracy-refactor/model.rb",
+		"/Users/Will/LocalHost/democracy-refactor/models/sentiment.rb",
+		"/Users/Will/LocalHost/democracy-refactor/models/district.rb",
+		"/Users/Will/LocalHost/democracy-refactor/models/bill.rb",
+		"/Users/Will/LocalHost/democracy-refactor/models/location.rb",
+		"/Users/Will/LocalHost/democracy-refactor/models/billsentiment.rb",
+		"/Users/Will/LocalHost/democracy-refactor/views/index.slim",
+		"/Users/Will/LocalHost/democracy-refactor/config.ru",
+		"/Users/Will/LocalHost/democracy-refactor/routes/public/style.css",
+		"/Users/Will/LocalHost/democracy-refactor/routes/auth-login.rb",
+		"/Users/Will/LocalHost/democracy-refactor/views/test.sliim",
+		"/Users/Will/LocalHost/users/model.rb",
+		"/Users/Will/LocalHost/users/Gemfile",
+		"/Users/Will/LocalHost/users/views/layout.slim",
+		"/Users/Will/LocalHost/users/views/form.slim.haml",
+		"/Users/Will/LocalHost/users/views/login.slim.haml",
+		"/Users/Will/LocalHost/users/views/list.slim.haml",
+		"/Users/Will/LocalHost/users/app.rb",
+		"/Users/Will/LocalHost/users/views/index.haml",
+		"/Users/Will/LocalHost/users/views/layout.haml",
+		"/Users/Will/LocalHost/users/views/show.slim",
+		"/Users/Will/LocalHost/users/views/edit_user.haml",
+		"/Users/Will/LocalHost/users/views/show.haml",
+		"/Users/Will/LocalHost/users/protected.haml",
+		"/Users/Will/LocalHost/users/views/form.haml",
+		"/Users/Will/LocalHost/users/users.rb",
+		"/Users/Will/LocalHost/users/test.rb",
+		"/Users/Will/LocalHost/users/project.db",
+		"/Users/Will/LocalHost/ApVibe/wp-content/themes/ApVibe/style.css",
+		"/Users/Will/LocalHost/ApVibe/wp-content/themes/ApVibe/js/application.js",
+		"/Users/Will/LocalHost/ApVibe/wp-content/themes/ApVibe/page-with-children.php",
+		"/Users/Will/LocalHost/ApVibe/wp-content/themes/ApVibe/page-calendar.php",
+		"/Users/Will/LocalHost/flexcraft/wp-content/themes/flexcraft/page-with-children.php",
+		"/Users/Will/LocalHost/ApVibe/wp-content/themes/ApVibe/index.php",
+		"/Users/Will/LocalHost/ApVibe/wp-config.php",
+		"/Users/Will/LocalHost/ApVibe/wp-content/themes/ApVibe/functions.php",
+		"/Users/Will/LocalHost/Troylines/wp-config.php",
+		"/Users/Will/LocalHost/yung_bitcoin/style.css",
+		"/Users/Will/LocalHost/users/views/flappy_coin/index.html",
+		"/Users/Will/LocalHost/users/views/admin.erb",
+		"/Users/Will/LocalHost/users/views/login.erb",
+		"/Users/Will/LocalHost/users/myapp.rb",
+		"/Users/Will/LocalHost/users/admin.erb",
+		"/Users/Will/workspace/Assignment Four/src/LinkedStack.java",
+		"/Users/Will/LocalHost/yung_bitcoin/index.html",
+		"/Users/Will/LocalHost/yung_bitcoin/index-2.html",
+		"/Users/Will/LocalHost/demoCRAYcy/nicknames.rb",
+		"/Users/Will/LocalHost/demoCRAYcy/getNickname.rb",
+		"/Users/Will/Dropbox/CS112/LinkedListExample 2.java",
+		"/Users/Will/Desktop/linkedListWithClass.java",
+		"/Users/Will/LocalHost/demoCRAYcy/democraycy.sublime-project",
+		"/Users/Will/LocalHost/Will Newman/will_newman/blog-loop.php",
+		"/Users/Will/LocalHost/demoCRAYcy/config.ru",
+		"/Users/Will/LocalHost/demoCRAYcy/configure.ru",
+		"/Users/Will/LocalHost/demoCRAYcy/tweets2.rb",
+		"/Users/Will/LocalHost/demoCRAYcy/views/votes.erb",
+		"/Users/Will/LocalHost/demoCRAYcy/views/state.erb",
+		"/Users/Will/LocalHost/demoCRAYcy/views/analyze.erb",
+		"/Users/Will/LocalHost/demoCRAYcy/public/css/styles.css",
+		"/Users/Will/LocalHost/demoCRAYcy/twitter_client.rb",
+		"/Users/Will/LocalHost/demoCRAYcy/views/index.erb",
+		"/Users/Will/LocalHost/demoCRAYcy/Gemfile",
+		"/Users/Will/LocalHost/demoCRAYcy/views/header.erb",
+		"/Users/Will/LocalHost/demoCRAYcy/views/footer.erb",
+		"/Users/Will/LocalHost/demoCRAYcy/public/js/scripts.js",
+		"/Users/Will/LocalHost/demoCRAYcy/views/reps.erb",
+		"/Users/Will/LocalHost/demoCRAYcy/getDaTweets.rb",
+		"/Users/Will/Desktop/chchchchchccchanges.rb",
+		"/Users/Will/Desktop/nicknames.json",
+		"/Users/Will/Desktop/csv.php",
+		"/Users/Will/LocalHost/demoCRAYcy/basics.rb",
+		"/Users/Will/LocalHost/demoCRAYcy/views/congressListing.erb",
+		"/Users/Will/LocalHost/sinatra/index.erb",
+		"/Users/Will/rails_projects/sample_app/app/controllers/application_controller.rb",
+		"/Users/Will/Desktop/School/Comp 111/UNO/Milestone Three/wn48_UnoPlayer.java",
+		"/Users/Will/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/Users/Will/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/Will/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/Will/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/Will/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
+		"/Users/Will/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/Will/rails_projects/sample_app/Gemfile",
+		"/Users/Will/rails_projects/sample_app/config/application.rb",
+		"/Users/Will/rails_projects/sample_app/app/assets/stylesheets/cust.css.scss",
+		"/Users/Will/rails_projects/sample_app/example_user.rb",
+		"/Users/Will/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/Will/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/Will/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/Will/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/Users/Will/rails_projects/sample_app/sample_app.sublime-project",
+		"/Users/Will/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/Will/rails_projects/sample_app/config/routes.rb",
+		"/Users/Will/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/Will/rails_projects/sample_app/spec/spec_helper.rb",
+		"/Users/Will/rails_projects/sample_app/README.md",
+		"/Users/Will/rails_projects/sample_app/README.rdoc",
+		"/Users/Will/rails_projects/sample_app/config/initializers/secret_token.rb",
+		"/Users/Will/Desktop/School/Comp 111/Assignment Two/ShippingCosts.java",
+		"/Users/Will/ruby/ShippingCosts.rb",
+		"/Users/Will/Desktop/School/Comp 111/Assignment Two/PayFriend.java",
+		"/Users/Will/ruby/PayFriend.rb",
+		"/Users/Will/Desktop/School/Comp 111/Assignment Two/Party.java",
+		"/Users/Will/LocalHost/WordpressDevelopment/will_newman/wp-content/themes/will_newman/header.php",
+		"/Users/Will/LocalHost/WordpressDevelopment/will_newman/wp-content/themes/will_newman/style.css",
+		"/Users/Will/ruby/temp.rb",
+		"/Users/Will/Desktop/Nothing.java",
+		"/Users/Will/Desktop/gcf.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"haml",
+			"%",
+			"event-image",
+			"ceiling",
+			"animSky",
+			"worldwide",
+			"getBillNickN",
+			"node",
+			"client",
+			"end",
+			"N9vii0t14NfhiJdnZ9dYwGQ9FnpAKSpN",
+			"post-dat",
+			"work",
+			"wrapper",
+			"GET",
+			"StringToRaw",
+			"GET",
+			"Put",
+			"Output(",
+			"Put",
+			"Output",
+			"Put",
+			"Encrypt",
+			"InsertKeys",
+			"md5",
+			"Put",
+			"Info",
+			"index",
+			"pauseButton",
+			"ignore",
+			"createPlaylist",
+			"playlist-container",
+			"track-id",
+			"data-track-id",
+			"add-to",
+			"addTr",
+			"class",
+			"bingo",
+			"playlist",
+			"console",
+			"pauseButton",
+			"addClass",
+			"class",
+			"Playclass",
+			"Play",
+			"removeChild",
+			"removeChi",
+			"removeButtom",
+			"playlistHolder",
+			"playlistHold",
+			"playlistHolde",
+			"playlist",
+			"pauseButton",
+			"nextSound",
+			"pauseCurrentSound",
+			"togglePause",
+			"addEventHandler",
+			"playNextSound",
+			"pauseButton",
+			"playNextSound",
+			"play",
+			"main-contant",
+			"inner",
+			"sublime",
+			"drop",
+			"dropdown",
+			"collection-links",
+			"drop-down",
+			"drop",
+			"{{",
+			"menu-item",
+			"ooter-menu-spacer",
+			"header",
+			"menu-social-nav",
+			"form",
+			"collection-link",
+			"menu-main-navigation a",
+			"menu-navigation a",
+			"menu-navigation",
+			"iframe",
+			"product-photos",
+			"continue-button",
+			"continue",
+			"checkout-form",
+			"sub-list-item",
+			"768",
+			"sub-list-item",
+			"checkout-link",
+			"481",
+			"product-left",
+			"content-inner",
+			"header",
+			"footer",
+			"#content",
+			"content",
+			"logo",
+			"menu-main",
+			"grid-product",
+			"\ngrid-product",
+			"grid-product",
+			"collection-sub-cat",
+			"sub-list-item",
+			"title",
+			"collection-link-block",
+			"div",
+			"html",
+			"front",
+			"add some",
+			"rte",
+			"cart",
+			"thead",
+			"checkout-form",
+			"content-inner",
+			"460",
+			"color-block",
+			"inner-header",
+			"collection-sub",
+			"collections-sub",
+			"ont-size: 14px",
+			"product-form",
+			"flex",
+			"product",
+			".flesxslider .slides img",
+			"product-photos",
+			"content-inner",
+			"option",
+			"flexslider .slides ",
+			"flex-viewport"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"bruh"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Will/LocalHost/buysell/models/user.rb",
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 94.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Will/LocalHost/buysell/app.rb",
+					"settings":
+					{
+						"buffer_size": 1313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1251,
+								1251
+							]
+						],
+						"settings":
+						{
+							"auto_name": "require 'bundler/setup'",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 451.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "auth.rb",
+					"settings":
+					{
+						"buffer_size": 769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								769,
+								769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 189.0
+	},
+	"output.sftp":
+	{
+		"height": 228.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": false
+}

@@ -1,0 +1,56 @@
+
+- unless u.nil?
+	div.home-left
+		h3 Post a new item for sale:
+	
+		form action="/saleitem/new" method="POST" enctype="multipart/form-data"
+	
+			input type="text" name="title" placeholder="Title"
+			br
+			textarea name="description" placeholder="Description"
+			br
+			input type="number" name="price" placeholder="Price"
+			br
+
+			label for="image" Image:
+			input type="file" name="image"
+			br
+			input class="submit" type="submit" value="Submit"
+	
+- if !items.nil? 
+	div.home-right
+		h3 Your Sale Items:
+		div.items
+		  - items.each do |item|
+		
+			div.item
+				div.item-top
+					- if ! item.images.nil?
+						div.item-top-left
+		      				img src="/uploads/#{item.images}" width="250"
+		      		div.item-top-right		
+		      			h3.title= item.title
+		      			br
+						-if item.sale_status == "for_sale"
+      						h4.sub-title For Sale
+      					-if item.sale_status == "sold"
+      						h4.sub-title Sold
+						br
+						h4.sub-title= item.price
+		
+		      	div.item-bottom
+		      		p.description= item.description[0..240]+". . ."
+		
+		      		a.item-link href="/saleitem/#{item.id}" Share Link
+		
+					a.item-link href="/saleitem/edit/#{item.id}" Edit Item
+
+- if !env['warden'].user.nil? && items.nil?
+	h3 You have nothing for sale!
+
+
+div.home-container
+	h2 Buy and Sell things to people you know on the internet?
+ 
+	
+

@@ -1,0 +1,14 @@
+h1 Users
+a href="/users/new" New User
+table
+  tr
+    th Username	
+    th User ID
+  - us.each do|u|
+    tr
+      td= u.username
+      td= u.id
+      td
+        a href="/users/#{u.id}" Show
+      td
+        a href="/users/#{u.id}/edit" Edit

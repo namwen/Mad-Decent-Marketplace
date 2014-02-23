@@ -1,0 +1,22 @@
+div.item-left
+	h3.title 
+		span.sub-title= item.title
+	
+	h3.title
+		| $
+		span.sub-title= item.price
+	
+	p.description= item.description
+
+	-unless item.sale_status != "for_sale"
+		h3.sub-title Pay with Venmo:
+		- if  session["access_token"].nil? or session["access_token"].empty?
+			a href="https://api.venmo.com/v1/oauth/authorize?client_id=1616&scope=make_payments%20access_profile&response_type=token" 	Authorize Venmo Payment
+		- else
+			form action="/completePurchase" method="POST"
+				input type="hidden" name="item_id" value="#{item.id}"
+				input.purchase type="submit" value="Purchase"
+	-if item.sale_status == "sold"
+		h3.sold SOLD!
+div.item-right
+	img src="/uploads/#{item.images}" width="250" class="item-image"

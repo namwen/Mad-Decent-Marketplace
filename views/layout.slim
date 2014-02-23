@@ -1,0 +1,42 @@
+doctype 5
+html
+  head
+	title Users
+	link rel="stylesheet" type="text/css" href="/stylesheets/style.css"
+
+	-if defined? item
+		- if !item.nil?
+			- if defined? baseURL
+				meta property="og:image" content="#{baseURL}/uploads/#{item.images}"
+				meta property="og:title" content="For Sale: #{item.title}"
+				meta property="og:site_name" content="Mad Decent Marketplace"
+				meta property="og:type" content="object"
+
+  body
+	header
+		div.header-inner
+
+			div.messages
+				- if flash[:success]
+					p.message.success = flash[:success]
+	
+				- if flash[:error]
+					 p.message.error = flash[:error]
+
+			h2.header-title 
+				a href="/" Mad Decent Marketplace
+
+			ul.nav
+				- if env['warden'].user.nil?
+					li: a href="/users/new" Sign Up
+					li: a href="/auth/login" Login
+				
+				- if admin? env['warden'].user
+					li: a href="/admin/users" Admin
+
+				- if !env['warden'].user.nil?
+					li: a href="/auth/logout" Logout
+		
+	#container.cf
+		== yield
+

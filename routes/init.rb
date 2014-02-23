@@ -1,0 +1,5 @@
+require_relative 'auth.rb'
+require_relative 'admin.rb'
+require_relative 'main.rb'
+require_relative 'user.rb'
+require_relative 'sale_items.rb'
